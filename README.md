@@ -53,7 +53,7 @@ O código-fonte está organizado em funções para facilitar a compreensão e ma
 
 O programa pode ser executado via linha de comando, fornecendo os nomes dos arquivos de entrada e saída:
 
-`python nome_do_script.py arquivo_entrada.csv arquivo_saida.csv`
+`python nome_do_script.py tweets.csv tweets_tratados.csv`
 
 Certifique-se de ter os módulos necessários instalados para a execução correta do programa.
 
