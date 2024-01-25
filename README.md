@@ -57,6 +57,8 @@ O programa pode ser executado via linha de comando, fornecendo os nomes dos arqu
 
 Certifique-se de ter os módulos necessários instalados para a execução correta do programa.
 
+Projeto em grupo: André Borile, Caio Alves, Carlos Henrique Augustin, Leonildo Linck, Rafael Vaz.
+
 _Este projeto foi desenvolvido com base em conceitos aprendidos em aula, visando simplicidade e eficiência. Para eventuais dúvidas ou melhorias, sinta-se à vontade para entrar em contato._
 
 
