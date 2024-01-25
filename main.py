@@ -1,3 +1,10 @@
+#Projeto elaborado por:
+    # Andre Borili
+    # Caio Alves
+    # Carlos Augustin
+    # Leonildo Linck
+    # Rafael Vaz
+
 # Importação dos múdulos utilizados, buscando utilizar somente o conteúdo visto em aula.
 import csv  # módulo csv para processamento de arquivos csv.
 import json  # módulo json para processamento do arquivo json para exportação.
