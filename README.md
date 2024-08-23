@@ -63,6 +63,7 @@ _Este projeto foi desenvolvido com base em conceitos aprendidos em aula, visando
 
 
 E-mail: leonildolinck@gmail.com
+E-mail: contatorafaelcvaz@gmail.com
 Discord: leonildo
 
 
